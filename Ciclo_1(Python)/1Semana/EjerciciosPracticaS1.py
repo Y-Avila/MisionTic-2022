@@ -1,3 +1,4 @@
+#Operaciones arimeticas para cuestionario del curso
 a = 8 
 b = 6 
 c = 9
@@ -7,6 +8,10 @@ x = 20.
 y = 3.53
 z = 15.
 w = 1.72
+
+
+#Comentar algunas secciones del codigo para almacenar la informacion, pero
+#Usar solo las operaciones necesarias. Habian dos grupo de datos. 
 
 """
 a = 3 

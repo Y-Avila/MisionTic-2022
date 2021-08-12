@@ -1,3 +1,10 @@
+#Operaciones arimeticas y concatenaciones de cadena de texto para mostrar en 
+#pantalla los resultados
+
+#Comentar algunas secciones del codigo para almacenar la informacion, pero
+#Usar solo las operaciones necesarias.
+
+
 # Problema 1 
 """
 numero1 = input("Digite el primer numero ")
