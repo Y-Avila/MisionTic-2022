@@ -1,4 +1,4 @@
-#El programa realiza las siguientes acciones:
+# El programa realiza las siguientes acciones:
 
 Se genera un entero entre 15 y 30; luego se construye un objeto de la clase vector (esta clase ya existe) tal como la definida en el curso.  El tamaño del vector es el número generado inicialmente. Luego, se llena el vector con números enteros entre 1 y 99999 generados aleatoriamente.
 
